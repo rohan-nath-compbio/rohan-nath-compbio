@@ -1,7 +1,7 @@
 # Rohan Nath  
 **Computational Biologist | Structural Biologist | Comparative Genomics Researcher**
 
-I am a computational biologist specializing in the structural and evolutionary biology of G Protein-Coupled Receptors (GPCRs). My research integrates comparative genomics, structural biology, and pharmacogenomics to investigate GPCR evolution, functional diversification, and their implications for precision therapeutics.
+I am a computational biologist working on the structural and evolutionary biology of G Protein-Coupled Receptors (GPCRs). My research integrates comparative genomics, structural biology, and pharmacogenomics to investigate GPCR evolution, functional diversification, and their implications for precision therapeutics.
 
 My overarching objective is to leverage multi-omic data and structural insights to inform population-aware drug discovery and rational therapeutic design.
 
